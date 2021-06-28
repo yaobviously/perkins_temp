@@ -1,1 +1,1 @@
-# perkins_temp
+Wrangling temperature data for visualization and analysis.
